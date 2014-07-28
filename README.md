@@ -1,6 +1,10 @@
 Android Bluetooth Chat
 ======================
 
+**Language:** Java                                                          
+**Environment:** Eclipse
+
+
 The project involved creating a communication application with the help of Android SDK on Eclipse IDE.
 This application facilitates communication between Bluetooth enabled android devices over short range in a secured manner.
 
