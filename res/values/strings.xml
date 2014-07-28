@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+     <string name="hello"><b>Android Chat Phone</b></string>
+    <string name="app_name">Android Chat Phone</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Search for devices</string>
+    <string name="discoverable">Make me discoverable</string>
+    <string name="back">back</string>
+    
+    <!-- instructions -->
+    <string name="instructions"><b><u>INSTRUCTIONS</u></b></string>
+	<string name="instructions1"><b>\n 1. Switch on phone\'s bluetooth \n
+	    							2. Select start from the main menu \n
+	    							3. go to options and scan for devices \n
+	    							4. Select a device from the list \n
+	    							5. It will ask you permission on both the devices to pair up \n
+	    							6. Once the "connected" status appears you can start sending text to the other device\n\n\n\n
+	    							note: This app cannot work on an emulator since there is no bluetooth support provided by android sdk.
+	    							It can however be run on android devices in debugger mode</b></string>
+	    							
+    <!-- about page -->
+    <string name="about"><b><u>ABOUT</u></b></string>
+	<string name="about1"><b>\n This app helps people to communicate between 
+	    android devices like phones, tablets, computers, etc over the bluetooth technology.\n 
+	    This is a very useful application which does not require network access. 
+	    Simple and faster way of sending messages  \n \n \n </b></string>
+	  
+    <!--  contact page -->
+    <string name="contact"><b><u>CONTACT US</u></b></string>
+	<string name="contact1"><b>\n Vinay Potluri 1RE07CS056</b></string>
+	<string name="guide">   Under the guidance of <u>MANJUNATH P.C \n\n</u></string>
+</resources>

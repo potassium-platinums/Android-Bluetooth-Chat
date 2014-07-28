@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"  />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal|center"
+        android:textSize="17sp"
+        android:shadowRadius="3"
+        android:textColor="#F7D896"
+        android:text="Android Chat Phone" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         />
+
+       <Button
+           android:id="@+id/button1"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center_vertical|center_horizontal|center"
+           android:layout_margin="5dip"
+           android:background="@drawable/blue"
+           android:paddingTop="10dip"
+           android:text="Start" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal|center"
+        android:layout_margin="5dip"
+        android:background="@drawable/red"
+        android:paddingTop="10dip"
+        android:text="Instructions" />
+    
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal|center"
+        android:layout_margin="5dip"
+        android:background="@drawable/yellow"
+        android:paddingTop="10dip"
+        android:text="About" />
+
+     <Button
+         android:id="@+id/button4"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_vertical|center_horizontal|center"
+         android:layout_margin="5dip"
+         android:background="@drawable/purple"
+         android:paddingTop="10dip"
+         android:text="Contact Us" />
+    
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal|center"
+        android:layout_margin="5dip"
+        android:background="@drawable/green"
+        android:paddingTop="10dip"
+        android:text="Exit" />
+
+</LinearLayout>
