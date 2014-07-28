@@ -18,7 +18,7 @@ Below are the Screenshots of the working application
 
 ![](http://i.imgur.com/oOgUuBX.png)
 
-![](http://i.imgur.com/rXfVrpN.png)
+![](http://i.imgur.com/rNmjCN8.png)
 
 ![](http://i.imgur.com/Rehx1ly.png)
 
